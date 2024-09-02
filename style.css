@@ -39,3 +39,61 @@ footer {
     border: 1px solid #190000;
     border-radius: 15px;
 }
+
+.seletor{
+    padding: 10px;
+    border-radius: 15px; 
+}
+
+.btn-converter{
+    background-color: #540B0E;
+    color: #f0f0f0;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+    border: none;
+    width: 20%;
+}
+
+.inputs-medidas{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 80%;
+}
+
+.elementos-home{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center
+}
+
+.img-infos{
+    height: 100%;
+    width: 30%;
+}
+
+.intro{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.intro p {
+    width: 70%;
+    margin-left: 20px;
+}
+
+.infos {
+    flex-direction: column;
+}
+
+.textos-infos{
+    flex-direction: column;
+}
